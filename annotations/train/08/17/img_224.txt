@@ -1,0 +1,1 @@
+{'FaceDetails': [], 'ResponseMetadata': {'RequestId': 'e6afeb23-6241-46a8-9036-fbf851bed018', 'HTTPStatusCode': 200, 'HTTPHeaders': {'content-type': 'application/x-amz-json-1.1', 'date': 'Tue, 11 Aug 2020 10:19:55 GMT', 'x-amzn-requestid': 'e6afeb23-6241-46a8-9036-fbf851bed018', 'content-length': '18', 'connection': 'keep-alive'}, 'RetryAttempts': 0}}
